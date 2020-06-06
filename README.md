@@ -1,15 +1,20 @@
 2020
 
-Section 1
+§1 : "What is Cartography" (?)
 
-* Exercise 1 : "Make a Map"
-* Exercise 2 : "Symbolizing a Map"
-* Exercise 3 : "Create and Export a Map Layout for Print"
+* Ex1 : "Make a Map" [pdf : *16pages*]
+* Ex2 : "Symbolizing a Map" [pdf : *44pages*]
+* Ex3 : "Create and Export a Map Layout for Print" [pdf : *15pages*]
 
 
-Section 2
+§2 : "Maths for Map Makers"
 
-Section 3
+* Ex1 : "Working with Map Projections" [pdf : *14pages*]
+* Ex2 : "Exploring Data for Classification" [pdf : *9pages*]
+* Ex3 : "Classifying Data" [pdf : *20pages*]
+
+
+§3 : "The Language of Graphics"
 
 Section 4
 
