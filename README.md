@@ -16,7 +16,18 @@
 
 §3 : "The Language of Graphics"
 
-Section 4
+* Ex1 : "Symbols and Scale"
+* Ex2 : "Generalization"
+* Ex3 : "Vector Tiles"
+* Ex4 : "Thematic Mapping"
+
+
+§4 : "Labels and Composition"
+
+* Ex1 : Labeling a Map
+* Ex2 : Working with Label Classes and Advanced Label Settings
+* Ex3 : Labels as Symbols
+
 
 Section 5
 
