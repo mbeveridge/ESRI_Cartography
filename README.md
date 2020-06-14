@@ -16,17 +16,17 @@
 
 §3 : "The Language of Graphics"
 
-* Ex1 : "Symbols and Scale" [pdf : *pg*]
-* Ex2 : "Generalization" [pdf : *pg*]
-* Ex3 : "Vector Tiles" [pdf : *pg*]
-* Ex4 : "Thematic Mapping" [pdf : *pg*]
+* Ex1 : "Symbols and Scale" [pdf : *21pg*] x
+* Ex2 : "Generalization" [pdf : *9pg*] x
+* Ex3 : "Vector Tiles" [pdf : *11pg*] x
+* Ex4 : "Thematic Mapping" [pdf : *55pg*] x
 
 
 §4 : "Labels and Composition"
 
-* Ex1 : "Labeling a Map" [pdf : *pg*]
-* Ex2 : "Working with Label Classes and Advanced Label Settings" [pdf : *pg*]
-* Ex3 : "Labels as Symbols" [pdf : *pg*]
+* Ex1 : "Labeling a Map" [pdf : *39pg*] x
+* Ex2 : "Working with Label Classes and Advanced Label Settings" [pdf : *28pg*] x
+* Ex3 : "Labels as Symbols" [pdf : *40pg*] x
 
 
 §5 : "Going 3D"
@@ -37,8 +37,8 @@
 
 §6 : "Mapping Movement and Change"
 
-* Ex1 : "" [pdf : *pg*]
-* Ex2 : "" [pdf : *pg*]
-* Ex3 : "" [pdf : *pg*]
-* Ex4 : "" [pdf : *pg*]
+* Ex1 : "Small Multiples" [pdf : *18pg*]
+* Ex2 : "Create a Fly-Through Animation" [pdf : *22pg*]
+* Ex3 : "Create a 2D Animation through Time" [pdf : *28pg*] x
+* Ex4 : "Create a Stop-Motion Animation" [pdf : *26pg*] x
 
